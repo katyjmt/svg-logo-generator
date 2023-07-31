@@ -1,0 +1,25 @@
+{
+  "name": "svg-logo-generator",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/katyjmt/svg-logo-generator.git"
+  },
+  "keywords": [
+    "svg",
+    "logo",
+    "generator",
+    "cli"
+  ],
+  "author": "Katy Thompson",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/katyjmt/svg-logo-generator/issues"
+  },
+  "homepage": "https://github.com/katyjmt/svg-logo-generator#readme"
+}
