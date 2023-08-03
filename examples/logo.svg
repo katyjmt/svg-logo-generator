@@ -1,4 +1,4 @@
 <svg width="300" height="200" version="1.1" xmlns="http://www.w3.org/2000/svg">
-<polygon points="150, 18 244, 182 56, 182" fill="Yellow"/>
-<text x="150" y="100" font-size="40px" fill="Pink" text-anchor="middle" dominant-baseline="middle">KJT</text>
+<circle r="82" cx="150" cy="100" fill="Yellow"/>
+<text x="150" y="100" font-size="40px" fill="Blue" text-anchor="middle" dominant-baseline="middle">CAT</text>
 </svg>
