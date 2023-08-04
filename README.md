@@ -33,7 +33,7 @@ Once the app is initialised (via instructions above), the user will be prompted 
 ## Examples
 ![Screenshot of SVG Logo Generator in-use.](./assets/screenshot.png)
 
-******ADD VIDEO LINK HERE********
+[Walkthrough Video](https://drive.google.com/file/d/16-2HZxDMxOBtHknuW8XJKFWtBfTVVBsx/view)
 
 ## License
 All assets and code are under MIT License unless specified otherwise.
