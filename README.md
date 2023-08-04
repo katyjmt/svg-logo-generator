@@ -31,9 +31,9 @@ A command-line tool that can be used to generate a simple logo. The user is prom
 Once the app is initialised (via instructions above), the user will be prompted with four questions to specify the shape, text and colour attributes of their logo. The logo will then be auto-generated and added to the 'examples' folder.
 
 ## Examples
-![Screenshot of SVG Logo Generator in-use.](./assets/screenshot.png)
-
 [Walkthrough Video](https://drive.google.com/file/d/16-2HZxDMxOBtHknuW8XJKFWtBfTVVBsx/view)
+
+![Screenshot of SVG Logo Generator in-use.](./assets/screenshot.png)
 
 ## License
 All assets and code are under MIT License unless specified otherwise.
